@@ -1,6 +1,21 @@
 @import "utils";
+@import "fonts";
 @import "typography";
 
-body {
-  background: $c-gray;
-}
+@import "./blocks/menu";
+@import "./blocks/page";
+@import "./blocks/main";
+
+@import "./blocks/collectedStyles";
+// top-bar
+@import "./blocks/top-bar";
+@import "./blocks/deskTop-bar";
+@import "./blocks/footer";
+// sections
+@import "./blocks/sections/theBrand";
+@import "./blocks/sections/scrollDown";
+@import "./blocks/sections/aboutUs";
+@import "./blocks/sections/shop";
+@import "./blocks/sections/creators";
+@import "./blocks/sections/powder";
+@import "./blocks/sections/contactUs";
