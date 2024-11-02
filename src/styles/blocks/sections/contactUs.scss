@@ -118,7 +118,6 @@
   font-size: 14px;
   font-weight: 400;
   line-height: 150%;
-  text-transform: capitalize;
 
   @include onTablet {
     font-weight: 500;
@@ -148,7 +147,6 @@
     font-size: 14px;
     font-weight: 400;
     line-height: 150%;
-    text-transform: capitalize;
 
     @include onTablet {
       font-weight: 500;
