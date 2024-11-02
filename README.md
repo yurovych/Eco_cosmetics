@@ -10,11 +10,11 @@
 
 #### Preview
 
-Link to the live preview: [Your Preview Link Here]
+Link to the live preview: [Link Here]
 
 #### Mockup
 
-Link to the mockup: [Your Mockup Link Here]
+Link to the mockup: [Link Here]
 
 #### Additional Instructions
 
